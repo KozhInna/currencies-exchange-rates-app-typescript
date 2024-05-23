@@ -11,5 +11,18 @@
   "devDependencies": {
     "typescript": "^5.2.2",
     "vite": "^5.0.8"
-  }
+  },
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.19.12",
+    "fsevents": "^2.3.3",
+    "nanoid": "^3.3.7",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.33",
+    "rollup": "^4.9.6",
+    "source-map-js": "^1.0.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
